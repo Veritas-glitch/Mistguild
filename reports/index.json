@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-171204-tzjs",
+      "title": "Silverah Shadowhart",
+      "commanders": [
+        "Silverah Shadowhart"
+      ],
+      "guild": {
+        "id": "BF87DDD0-8634-E411-9621-AC162DAE8ACD",
+        "name": "Rift Legion",
+        "tag": "Mist"
+      },
+      "dateStart": "2026-09-15T00:12:04.000Z",
+      "dateEnd": "2026-09-15T00:50:14.956Z",
+      "dateLabel": "9/14/2026, 5:12:04 PM - 9/14/2026, 5:50:14 PM",
+      "url": "https://veritas-glitch.github.io/Mistguild/?report=20260914-171204-tzjs",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260914-171204-fxob",
       "title": "Silverah Shadowhart",
       "commanders": [
