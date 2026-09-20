@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260919-160254-7j2h",
+      "title": "Aithne Brinley",
+      "commanders": [
+        "Aithne Brinley"
+      ],
+      "guild": {
+        "id": "BF87DDD0-8634-E411-9621-AC162DAE8ACD",
+        "name": "Rift Legion",
+        "tag": "Mist"
+      },
+      "dateStart": "2026-09-19T23:02:54.000Z",
+      "dateEnd": "2026-09-20T00:09:01.786Z",
+      "dateLabel": "9/19/2026, 4:02:54 PM - 9/19/2026, 5:09:01 PM",
+      "url": "https://Veritas-glitch.github.io/Mistguild/?report=20260919-160254-7j2h",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260914-171204-tzjs",
       "title": "Silverah Shadowhart",
       "commanders": [
