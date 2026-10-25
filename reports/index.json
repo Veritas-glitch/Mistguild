@@ -1,8 +1,52 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.9"
+  },
   "entries": [
+    {
+      "id": "20261024-181438-i2jv",
+      "title": "Draken Krüger",
+      "commanders": [
+        "Draken Krüger"
+      ],
+      "guild": {
+        "id": "3CF2C8C7-7F34-EA11-81AB-B972029346A8",
+        "name": "Abyss Rebels",
+        "tag": "ARS"
+      },
+      "dateStart": "2026-10-25T01:14:38.000Z",
+      "dateEnd": "2026-10-25T01:46:15.522Z",
+      "dateLabel": "10/24/2026, 6:14:38 PM - 10/24/2026, 6:46:15 PM",
+      "url": "https://Veritas-glitch.github.io/Mistguild/?report=20261024-181438-i2jv",
+      "publishedBy": "Veritas-glitch",
+      "summary": {
+        "borderlandsPct": 0.6060606060606061,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20260919-160254-7j2h",
       "title": "Aithne Brinley",
